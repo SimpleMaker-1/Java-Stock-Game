@@ -12,4 +12,4 @@ Open your IDE and import the project.
 
 Note: Set the RES folder as a source folder in your IDE. This is necessary for the game to work properly.
 
-Run the main class to start the game.
+Run the main class to start the game. 
