@@ -5,8 +5,6 @@ An IDE like IntelliJ IDEA, Eclipse, or NetBeans
 Setup
 Clone the repository:
 
-bash
-
 git clone https://github.com/yourusername/java-stock-game.git
 
 cd java-stock-game
